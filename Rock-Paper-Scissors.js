@@ -62,5 +62,9 @@ function playGame() {
         return "Humanity wins!";
     } else if (humanScore < computerScore) {
         return "The machines win!";
-    } else "We are at a standstill, Draw!";
+    } else 
+        return "We are at a standstill, Draw!";
+
+
+
 }
