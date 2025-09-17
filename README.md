@@ -1,1 +1,1 @@
-Rock paper scissors application to leanr the basics of javascript and DOM
+Rock paper scissors application to learn the basics of javascript and DOM
